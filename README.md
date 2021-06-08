@@ -36,3 +36,6 @@ Wire cutters/strippers - though most modern pliers tend to have a wire cutter ne
 Metal file 
 
 Tape Measure  
+
+ 
+
