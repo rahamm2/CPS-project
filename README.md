@@ -7,7 +7,7 @@ Skill Level:
 
 The skill level required for the project intermediate to advance level. An advance knowledge of coding is required for this project. 
 
-Tags: 
+## Tags: 
 
 #IoT, #Arduino, # Cyber physic system, # Greenhouse, # User-friendly  
 
@@ -19,7 +19,7 @@ Luke Meng 400076302-Design and create the idea.
 
 Masoodhur Rahaman 400346797-Design and create the idea. 
 
-Tools 
+## Tools: 
 
 Extra-long, spring lever needle nose pliers 
 
