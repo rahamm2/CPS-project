@@ -19,4 +19,20 @@ Luke Meng 400076302-Design and create the idea.
 
 Masoodhur Rahaman 400346797-Design and create the idea. 
 
- 
+Tools 
+
+Extra-long, spring lever needle nose pliers 
+
+Regular needle nose pliers 
+
+Slip-joint pliers 
+
+Tonge and groove arc-joint (aka Channel-lock) pliers 
+
+Locking (Vice-Grip) pliers 
+
+Wire cutters/strippers - though most modern pliers tend to have a wire cutter near the joint. 
+
+Metal file 
+
+Tape Measure  
