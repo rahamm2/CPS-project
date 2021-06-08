@@ -11,7 +11,7 @@ The skill level required for the project intermediate to advance level. An advan
 
 #IoT, #Arduino, # Cyber physic system, # Greenhouse, # User-friendly  
 
-Contributors: 
+## Contributors: 
 
 Tong (Andrew) Lu 400071738- Design and create idea. 
 
